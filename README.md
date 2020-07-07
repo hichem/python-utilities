@@ -1,4 +1,4 @@
-# Python Utilities
+# Python Utils
 
 * TCP Socket Example
 * REST API Call Example
